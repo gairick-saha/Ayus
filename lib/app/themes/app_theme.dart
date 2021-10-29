@@ -2,17 +2,17 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class AppTheme {
-  static const white = Color(0xffffffff);
-  static const dodger_blue = Color(0xff418efb);
-  static const greyish_brown = Color(0xff3c3c3c);
-  static const mid_blue = Color(0xff1f5db5);
-  static const ice_blue = Color(0xfff1f7ff);
-  static const warm_grey = Color(0xff747474);
-  static const white_two = Color(0xffe2e2e2);
-  static const pinkish_grey = Color(0xffc8c8c8);
-  static const vermillion = Color(0xffea400a);
-  static const kelly_green = Color(0xff06be18);
-  static const light_blue_grey = Color(0xffe4f2f7);
+  static const Color white = Color(0xffffffff);
+  static const Color dodger_blue = Color(0xff418efb);
+  static const Color greyish_brown = Color(0xff3c3c3c);
+  static const Color mid_blue = Color(0xff1f5db5);
+  static const Color ice_blue = Color(0xfff1f7ff);
+  static const Color warm_grey = Color(0xff747474);
+  static const Color white_two = Color(0xffe2e2e2);
+  static const Color pinkish_grey = Color(0xffc8c8c8);
+  static const Color vermillion = Color(0xffea400a);
+  static const Color kelly_green = Color(0xff06be18);
+  static const Color light_blue_grey = Color(0xffe4f2f7);
   static const Color kelly_green_20 = Color(0x5706BE18);
 
   static const List<Color> blueGradient = [
